@@ -1,6 +1,8 @@
 # RevitAddin.SelectionChangedExample
 
-[![Revit 2017](https://img.shields.io/badge/Revit-2017+-blue.svg)](../..)
+Revit Addin Example with the SelectionChanged event from Revit Api 2023.
+
+[![Revit 2023](https://img.shields.io/badge/Revit-2023+-blue.svg)](../..)
 [![Visual Studio 2019](https://img.shields.io/badge/Visual%20Studio%202019-16.11.7+-blue)](../..)
 [![Nuke](https://img.shields.io/badge/Nuke-Build-blue)](https://nuke.build/)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -11,10 +13,17 @@
 
 * [Latest release](../../releases/latest)
 
+## Video
+
+[![VideoIma]][Video]
+
 ## License
 
 This project is [licensed](LICENSE) under the [MIT Licence](https://en.wikipedia.org/wiki/MIT_License).
 
 ---
 
-Do you like this package? Please [star this project on GitHub](../../stargazers)!
+Do you like this project? Please [star this project on GitHub](../../stargazers)!
+
+[Video]: https://youtu.be/2sNj7XE5MUg
+[VideoIma]: https://img.youtube.com/vi/2sNj7XE5MUg/hqdefault.jpg
