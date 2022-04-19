@@ -2,6 +2,8 @@
 
 Revit Addin Example with the SelectionChanged event from Revit Api 2023.
 
+To implement the SelectionChanged on older versions of the api check [Revit Api Forum](https://forums.autodesk.com/t5/revit-api-forum/element-selection-changed-event-implementation-struggles/td-p/9229523)
+
 [![Revit 2023](https://img.shields.io/badge/Revit-2023+-blue.svg)](../..)
 [![Visual Studio 2019](https://img.shields.io/badge/Visual%20Studio%202019-16.11.7+-blue)](../..)
 [![Nuke](https://img.shields.io/badge/Nuke-Build-blue)](https://nuke.build/)
