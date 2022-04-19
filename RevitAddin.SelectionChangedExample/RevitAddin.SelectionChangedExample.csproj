@@ -58,8 +58,8 @@
     </When>
     <Otherwise>
       <PropertyGroup>
-        <RevitVersion>2017</RevitVersion>
-        <TargetFramework>net46</TargetFramework>
+        <RevitVersion>2023</RevitVersion>
+        <TargetFramework>net48</TargetFramework>
       </PropertyGroup>
     </Otherwise>
   </Choose>

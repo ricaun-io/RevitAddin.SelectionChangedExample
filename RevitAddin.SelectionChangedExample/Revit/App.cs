@@ -11,8 +11,8 @@ namespace RevitAddin.SelectionChangedExample.Revit
         private static RibbonPanel ribbonPanel;
         public Result OnStartup(UIControlledApplication application)
         {
-            ribbonPanel = application.CreatePanel("RevitAddin.SelectionChangedExample");
-            ribbonPanel.AddPushButton<Commands.Command>()
+            ribbonPanel = application.CreatePanel("RevitAddin");
+            ribbonPanel.AddPushButton<Commands.Command>("Selection\rChanged")
                 .SetLargeImage("/UIFrameworkRes;component/ribbon/images/revit.ico");
             return Result.Succeeded;
         }
